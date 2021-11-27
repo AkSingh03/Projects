@@ -1,1 +1,2 @@
-
+npm install minimist for parsing
+npm install puppeteer for automation
