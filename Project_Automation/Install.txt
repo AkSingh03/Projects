@@ -1,2 +1,7 @@
-npm install minimist for parsing
-npm install puppeteer for automation
+// node hackerrank.js --url=https://www.hackerrank.com --config=config.json
+
+// npm init -y
+
+// npm install minimist
+
+// npm install puppeteer
